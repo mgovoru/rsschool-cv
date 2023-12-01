@@ -128,11 +128,7 @@ header {
 	background-color: rgba(137, 43, 226, 0.227);
 }
 
-@media (max-width: 664px) {
-	.lastname {
-		grid-column: span 1;
-	}
-}
+
 
 .socialnet {
 	order: 5;
@@ -167,7 +163,7 @@ header {
 }
 
 @media (max-width: 664px) {
-	.aboutme {
+	.block {
 		grid-column: span 1;
 	}
 }
