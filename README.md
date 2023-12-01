@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mgovoru.github.io/rsschool-cv/cv
